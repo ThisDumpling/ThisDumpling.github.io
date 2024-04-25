@@ -40,7 +40,7 @@
 
   <url>
     <loc>https://thisdumpling.github.io/</loc>
-    <lastmod>2024-04-24</lastmod>
+    <lastmod>2024-04-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -48,7 +48,7 @@
   
   <url>
     <loc>https://thisdumpling.github.io/tags/Fortran/</loc>
-    <lastmod>2024-04-24</lastmod>
+    <lastmod>2024-04-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -57,14 +57,14 @@
   
   <url>
     <loc>https://thisdumpling.github.io/categories/%E5%A4%A9%E6%96%87/</loc>
-    <lastmod>2024-04-24</lastmod>
+    <lastmod>2024-04-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://thisdumpling.github.io/categories/%E5%A4%A9%E6%96%87/%E7%90%83%E9%9D%A2%E5%A4%A9%E6%96%87%E5%AD%A6/</loc>
-    <lastmod>2024-04-24</lastmod>
+    <lastmod>2024-04-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>

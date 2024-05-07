@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://thisdumpling.github.io/posts/f7084217.html</loc>
+    
+    <lastmod>2024-05-07</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://thisdumpling.github.io/posts/ac3417bb.html</loc>
+    
+    <lastmod>2024-04-29</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://thisdumpling.github.io/posts/7c959d11.html</loc>
     
     <lastmod>2024-04-26</lastmod>
@@ -49,7 +67,7 @@
 
   <url>
     <loc>https://thisdumpling.github.io/</loc>
-    <lastmod>2024-04-26</lastmod>
+    <lastmod>2024-05-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -57,7 +75,21 @@
   
   <url>
     <loc>https://thisdumpling.github.io/tags/Fortran/</loc>
-    <lastmod>2024-04-26</lastmod>
+    <lastmod>2024-05-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://thisdumpling.github.io/tags/Python/</loc>
+    <lastmod>2024-05-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://thisdumpling.github.io/tags/%E6%98%9F%E5%8E%86%E8%A1%A8/</loc>
+    <lastmod>2024-05-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -66,14 +98,14 @@
   
   <url>
     <loc>https://thisdumpling.github.io/categories/%E5%A4%A9%E6%96%87/</loc>
-    <lastmod>2024-04-26</lastmod>
+    <lastmod>2024-05-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://thisdumpling.github.io/categories/%E5%A4%A9%E6%96%87/%E7%90%83%E9%9D%A2%E5%A4%A9%E6%96%87%E5%AD%A6/</loc>
-    <lastmod>2024-04-26</lastmod>
+    <lastmod>2024-05-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
